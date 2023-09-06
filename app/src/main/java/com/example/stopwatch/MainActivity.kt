@@ -10,7 +10,8 @@ class MainActivity : AppCompatActivity() {
     // in kotlin, we use a companion object:
     companion object {
             // TAG is the default var ame for labeling your log statements
-            val TAG = "MainActivity"    
+            val TAG = "MainActivity"
+            val ASTROPHYSICISTISTS = 3
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
